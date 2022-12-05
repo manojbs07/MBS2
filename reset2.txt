@@ -1,0 +1,1 @@
+git reset is used to move a branch from one commit to another commit
