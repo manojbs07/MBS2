@@ -1,1 +1,2 @@
 fast forward merge
+git tag is reference name given for versions
