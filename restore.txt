@@ -1,0 +1,2 @@
+git restore --stage <file_name>
+git restore <file_name>
