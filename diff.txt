@@ -9,3 +9,4 @@ git rebase
 new branch created
 tag name created
 merge resolve
+git merge <branch_name>
