@@ -7,3 +7,5 @@ git diff head -------> to check difference between repository file and working a
 git diff -------> to check difference between working area and staging area 
 git rebase
 new branch created
+tag name created
+merge resolve
