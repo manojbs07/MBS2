@@ -6,3 +6,4 @@ git diff --staged ----->to check the difference between staging area and reposit
 git diff head -------> to check difference between repository file and working area
 git diff -------> to check difference between working area and staging area 
 git rebase
+new branch created
