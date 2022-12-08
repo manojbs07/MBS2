@@ -1,2 +1,4 @@
 Local repo & remote repo
 remote repositories are present in service cloud
+local repositories are stored in local system
+commands done
