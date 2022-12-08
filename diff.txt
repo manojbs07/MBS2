@@ -10,3 +10,5 @@ new branch created
 tag name created
 merge resolve
 git merge <branch_name>
+hello world
+shell scripting is used to automate tasks
