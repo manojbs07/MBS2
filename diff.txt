@@ -13,3 +13,5 @@ git merge <branch_name>
 hello world
 shell scripting is used to automate tasks
 git repositories
+git cherry-pick is an act of pick commit from one branch to another branch
+git stash
